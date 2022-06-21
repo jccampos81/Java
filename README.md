@@ -36,6 +36,7 @@ Acesse o prompt de comando, entre no diretório principal do projeto e dentro de
 Esse é o arquivo principal do projeto. Com sua variável de ambiente "JAVA_HOME" devidamente configurada em seu sistema operacional, execute o seguinte 
 comando: java -jar Eleicoes-1.0.jar
 O arquivo completo compactado está disponível google drive com link público: https://drive.google.com/file/d/1zv74e4RZQ9CINjOCJgFBg_9P-DvdDATD/view?usp=sharing
+Ao descompactar o arquivo eleicoes.rar, localize o diretório target e nele econtrará Eleicoes1-0.jar
 
 ```
 java -jar Eleicoes-1.0.jar
