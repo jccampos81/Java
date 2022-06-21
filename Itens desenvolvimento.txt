@@ -1,0 +1,37 @@
+Estimativa:
+
+Para o desenvolvimento da aplicação, foram necessárias um total de 14 horas.
+
+Estimativa de entrega para o trabalho completo em dias úteis: 5 dias
+
+---
+
+Etapas:
+
+Primeiro a preparação do ambiente, a crição do projeto inicial, definição da modelagem 
+de dados
+
+Desenvolvimento do módulo de cadastro
+
+Desenvolvimento do módulo de votação
+
+Controle de login de usuário
+
+Módulo de upload de imagens
+
+Testes diversos
+
+Geração do pacote .jar e testes em diferente navegadores
+
+---
+
+Tecnologias usadas para o desenvolvimento:
+
+* [Maven](https://maven.apache.org/) - Ferramenta de automação e compilação
+* [Visual Studio Code](https://code.visualstudio.com/) - IDE Editor de código fonte da Microsoft
+* [Spring-boot](https://spring.io/projects/spring-boot) - Framework
+* [Thymeleaf](https://www.thymeleaf.org/) - Mecanismo de template. 
+
+---
+
+
